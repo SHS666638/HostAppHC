@@ -1,0 +1,5 @@
+figlet XAPP
+echo "Init -- Info: Checking..."
+sleep 2s
+echo "Init -- Data: XApp Installing..."
+sleep 2s
