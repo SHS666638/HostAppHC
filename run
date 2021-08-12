@@ -3,3 +3,14 @@ echo "Init -- Info: Checking..."
 sleep 2s
 echo "Init -- Data: XApp Installing..."
 sleep 2s
+echo "Init -- Data: XApp Installed!"
+sleep 2s
+echo "Init -- Quest: Username GithubXServer (Send to @GithubSocketBot !register 27287 @usernameyouwant):"
+read user
+echo "Init -- Data: Github Socket Loading..."
+sleep 2s
+echo "Init -- Quest: Server Github Repo:"
+read repo
+echo Init -- Info: Username:$user -- Repo you want Host:$repo
+sleep 2s
+echo "Init -- Host: 24kb/s Speed -- Hosting"
